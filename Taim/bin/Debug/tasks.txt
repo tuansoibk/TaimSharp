@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTaimTask xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TaimTask>
+    <Title>task 1</Title>
+    <Description>desc 1</Description>
+    <Estimation>1h</Estimation>
+    <ElapsedTimeString>00:00:32</ElapsedTimeString>
+  </TaimTask>
+  <TaimTask>
+    <Title>task 2</Title>
+    <Description>desc 2</Description>
+    <Estimation>1d</Estimation>
+    <ElapsedTimeString>00:01:34</ElapsedTimeString>
+  </TaimTask>
+</ArrayOfTaimTask>

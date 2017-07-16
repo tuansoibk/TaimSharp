@@ -1,0 +1,10 @@
+E:\06_Programming\C#\Taim\Taim\bin\Debug\Taim.exe.config
+E:\06_Programming\C#\Taim\Taim\bin\Debug\Taim.exe
+E:\06_Programming\C#\Taim\Taim\bin\Debug\Taim.pdb
+E:\06_Programming\C#\Taim\Taim\obj\Debug\Taim.csprojResolveAssemblyReference.cache
+E:\06_Programming\C#\Taim\Taim\obj\Debug\Taim.TaimForm.resources
+E:\06_Programming\C#\Taim\Taim\obj\Debug\Taim.Properties.Resources.resources
+E:\06_Programming\C#\Taim\Taim\obj\Debug\Taim.csproj.GenerateResource.Cache
+E:\06_Programming\C#\Taim\Taim\obj\Debug\Taim.exe
+E:\06_Programming\C#\Taim\Taim\obj\Debug\Taim.pdb
+E:\06_Programming\C#\Taim\Taim\bin\Debug\Gma.System.MouseKeyHook.dll
